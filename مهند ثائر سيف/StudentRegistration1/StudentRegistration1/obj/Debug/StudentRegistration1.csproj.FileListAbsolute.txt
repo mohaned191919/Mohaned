@@ -1,0 +1,10 @@
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\obj\Debug\StudentRegistration1.csproj.AssemblyReference.cache
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\obj\Debug\StudentRegistration1.StudentFrame.resources
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\obj\Debug\StudentRegistration1.Properties.Resources.resources
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\obj\Debug\StudentRegistration1.csproj.GenerateResource.cache
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\obj\Debug\StudentRegistration1.csproj.CoreCompileInputs.cache
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\bin\Debug\StudentRegistration1.exe.config
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\bin\Debug\StudentRegistration1.exe
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\bin\Debug\StudentRegistration1.pdb
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\obj\Debug\StudentRegistration1.exe
+C:\Users\Amer\source\repos\StudentRegistration1\StudentRegistration1\obj\Debug\StudentRegistration1.pdb
